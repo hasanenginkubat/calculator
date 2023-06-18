@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .input {
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    border-radius: 30em;
+    width: 18%;
+    margin-right: 30em;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
